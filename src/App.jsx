@@ -1,5 +1,4 @@
 import React from 'react'
-import StrengthMeter from './components/StrengthMeter'
  import PasswordChecker from './pages/PasswordChecker'
 
 
